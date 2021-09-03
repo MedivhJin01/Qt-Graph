@@ -25,7 +25,7 @@ Vertex Info: To check all the information of a vertex, including coordinates, de
 
 *an algorithm is written to create repulsion between vertices in order to clearly display the weight of an edge. Thus, when two vertices are too close, they will be pushed away automatically.
 
-<img width="111" alt="Screen Shot 2021-09-03 at 2 20 28 PM" src="https://user-images.githubusercontent.com/55257057/131960879-a7763f08-0095-46bd-9ed7-81c086a597c4.png">
+<img width="60" alt="Screen Shot 2021-09-03 at 2 20 28 PM" src="https://user-images.githubusercontent.com/55257057/131960879-a7763f08-0095-46bd-9ed7-81c086a597c4.png">
 
 # Edge
 Add Edge: Inserting an edge between two vertices with weight. The edge will be undirected(two ways) and having a weight greater than 0.
@@ -33,9 +33,11 @@ Add Edge: Inserting an edge between two vertices with weight. The edge will be u
 <img width="500" alt="Screen Shot 2021-09-03 at 2 39 16 PM" src="https://user-images.githubusercontent.com/55257057/131961565-7bbac36c-5b1a-4165-ba5b-8eda4ccff7a3.png">
 
 Update Weight: Updating the weight of an existed edge.
+
 <img width="500" alt="Screen Shot 2021-09-03 at 2 39 25 PM" src="https://user-images.githubusercontent.com/55257057/131961576-d4068038-8b64-4dc4-bd82-cee0e7072ffe.png">
 
 Erase Edge: Erase an edge.
+
 <img width="500" alt="Screen Shot 2021-09-03 at 2 39 33 PM" src="https://user-images.githubusercontent.com/55257057/131961591-91b62e7b-0457-41ae-bfb3-9ac1f5c5e0e9.png">
 
 # Graph
