@@ -44,9 +44,20 @@ Erase Edge: Erase an edge.
 # Graph
 Function: 
 1.  Depth First Search
-3.  Breadth First Search
-4.  Minimum Spanning Tree (Prim Method)
-5.  Optimal Path (Floyd-Warshall Algorithm)
+
+![dfs](https://user-images.githubusercontent.com/55257057/132029997-19887d30-707d-4407-9e08-3a7095f88997.gif)
+2.  Breadth First Search
+
+![bfs](https://user-images.githubusercontent.com/55257057/132030062-8131dcde-1e02-480b-b573-55b0bb486c03.gif)
+
+3.  Minimum Spanning Tree (Prim Method)
+
+![mst](https://user-images.githubusercontent.com/55257057/132030092-618249d6-220c-4fad-99b3-472735e3b1e3.gif)
+
+4.  Optimal Path (Floyd-Warshall Algorithm)
+
+![optimal](https://user-images.githubusercontent.com/55257057/132030106-cbd5467e-9684-46e8-913a-bc79f947032e.gif)
+
 
 
 
