@@ -9,6 +9,7 @@ The Project is developed based on undirected weighted graph structure and can be
 
 # Vertex
 Add Vertex: Inserting a vertex in QGraphicsView, the position of the inserted vertex will be automatically set to the center, and the index of the vertex is the current number of vertices exist in the graph.
+
 <img width="500" alt="Screen Shot 2021-09-03 at 2 19 37 PM" src="https://user-images.githubusercontent.com/55257057/131959958-fafc0bf5-dd09-4f4c-b907-176435b3d8af.png">
 
 Erase Vertex: When user proceed this operation, a window will be popped out asking for the target vertex index that will be erased. When the target vertex is deleted, all the vertex index that greater than it will be updated for tracking purpose. 
