@@ -9,5 +9,38 @@ The Project is developed based on undirected weighted graph structure and can be
 
 # Vertex
 Add Vertex: Inserting a vertex in QGraphicsView, the position of the inserted vertex will be automatically set to the center, and the index of the vertex is the current number of vertices exist in the graph.
+<img width="1008" alt="Screen Shot 2021-09-03 at 2 19 37 PM" src="https://user-images.githubusercontent.com/55257057/131959958-fafc0bf5-dd09-4f4c-b907-176435b3d8af.png">
+
+Erase Vertex: When user proceed this operation, a window will be popped out asking for the target vertex index that will be erased. When the target vertex is deleted, all the vertex index that greater than it will be updated for tracking purpose. 
+<img width="997" alt="Screen Shot 2021-09-03 at 2 19 51 PM" src="https://user-images.githubusercontent.com/55257057/131960836-058e1459-5df2-46fe-a9ca-add5ead9966c.png">
+
+Set Position: Users can change the position of a vertex through this function, the range of the QGraphicsView is top-left(-390, -305) and bottom-right(390, 440). Moreover, vertex position can be changed through dragging.
+<img width="383" alt="Screen Shot 2021-09-03 at 2 20 01 PM" src="https://user-images.githubusercontent.com/55257057/131960857-3ad4d06b-1d3a-430e-b9ed-c49b90795222.png">
+
+Vertex Info: To check all the information of a vertex, including coordinates, degree, adjacent vertices, and weight.
+<img width="901" alt="Screen Shot 2021-09-03 at 2 20 18 PM" src="https://user-images.githubusercontent.com/55257057/131960867-d875be88-e0bf-4cde-9e2d-aa0d9ef76ebf.png">
+
+*an algorithm is written to create repulsion between vertices in order to clearly display the weight of an edge. Thus, when two vertices are too close, they will be pushed away automatically.
+<img width="111" alt="Screen Shot 2021-09-03 at 2 20 28 PM" src="https://user-images.githubusercontent.com/55257057/131960879-a7763f08-0095-46bd-9ed7-81c086a597c4.png">
+
+# Edge
+Add Edge: Inserting an edge between two vertices with weight. The edge will be undirected(two ways) and having a weight greater than 0.
+<img width="975" alt="Screen Shot 2021-09-03 at 2 39 16 PM" src="https://user-images.githubusercontent.com/55257057/131961565-7bbac36c-5b1a-4165-ba5b-8eda4ccff7a3.png">
+
+Update Weight: Updating the weight of an existed edge.
+<img width="960" alt="Screen Shot 2021-09-03 at 2 39 25 PM" src="https://user-images.githubusercontent.com/55257057/131961576-d4068038-8b64-4dc4-bd82-cee0e7072ffe.png">
+
+Erase Edge: Erase an edge.
+<img width="955" alt="Screen Shot 2021-09-03 at 2 39 33 PM" src="https://user-images.githubusercontent.com/55257057/131961591-91b62e7b-0457-41ae-bfb3-9ac1f5c5e0e9.png">
+
+# Graph
+Function: 
+1.  Depth First Search
+![mdv 2021-09-09 14 42 11](https://user-images.githubusercontent.com/55257057/131961908-6fc48a18-fca1-4f44-b25b-a1646e52b823.gif)
+
+3.  Breadth First Search
+4.  Minimum Spanning Tree (Prim Method)
+5.  Optimal Path (Floyd-Warshall Algorithm)
+
 
 
