@@ -21,7 +21,7 @@ Set Position: Users can change the position of a vertex through this function, t
 
 Vertex Info: To check all the information of a vertex, including coordinates, degree, adjacent vertices, and weight.
 
-<img width="500" alt="Screen Shot 2021-09-03 at 2 20 18 PM" src="https://user-images.githubusercontent.com/55257057/131960867-d875be88-e0bf-4cde-9e2d-aa0d9ef76ebf.png">
+<img width="200" alt="Screen Shot 2021-09-03 at 2 20 18 PM" src="https://user-images.githubusercontent.com/55257057/131960867-d875be88-e0bf-4cde-9e2d-aa0d9ef76ebf.png">
 
 *an algorithm is written to create repulsion between vertices in order to clearly display the weight of an edge. Thus, when two vertices are too close, they will be pushed away automatically.
 
@@ -29,19 +29,18 @@ Vertex Info: To check all the information of a vertex, including coordinates, de
 
 # Edge
 Add Edge: Inserting an edge between two vertices with weight. The edge will be undirected(two ways) and having a weight greater than 0.
-<img width="975" alt="Screen Shot 2021-09-03 at 2 39 16 PM" src="https://user-images.githubusercontent.com/55257057/131961565-7bbac36c-5b1a-4165-ba5b-8eda4ccff7a3.png">
+
+<img width="500" alt="Screen Shot 2021-09-03 at 2 39 16 PM" src="https://user-images.githubusercontent.com/55257057/131961565-7bbac36c-5b1a-4165-ba5b-8eda4ccff7a3.png">
 
 Update Weight: Updating the weight of an existed edge.
-<img width="960" alt="Screen Shot 2021-09-03 at 2 39 25 PM" src="https://user-images.githubusercontent.com/55257057/131961576-d4068038-8b64-4dc4-bd82-cee0e7072ffe.png">
+<img width="500" alt="Screen Shot 2021-09-03 at 2 39 25 PM" src="https://user-images.githubusercontent.com/55257057/131961576-d4068038-8b64-4dc4-bd82-cee0e7072ffe.png">
 
 Erase Edge: Erase an edge.
-<img width="955" alt="Screen Shot 2021-09-03 at 2 39 33 PM" src="https://user-images.githubusercontent.com/55257057/131961591-91b62e7b-0457-41ae-bfb3-9ac1f5c5e0e9.png">
+<img width="500" alt="Screen Shot 2021-09-03 at 2 39 33 PM" src="https://user-images.githubusercontent.com/55257057/131961591-91b62e7b-0457-41ae-bfb3-9ac1f5c5e0e9.png">
 
 # Graph
 Function: 
 1.  Depth First Search
-![mdv 2021-09-09 14 42 11](https://user-images.githubusercontent.com/55257057/131961908-6fc48a18-fca1-4f44-b25b-a1646e52b823.gif)
-
 3.  Breadth First Search
 4.  Minimum Spanning Tree (Prim Method)
 5.  Optimal Path (Floyd-Warshall Algorithm)
