@@ -7,5 +7,7 @@ The Project is developed based on undirected weighted graph structure and can be
 # User Interface
 <img width="693" alt="Screen Shot 2021-09-03 at 1 58 09 PM" src="https://user-images.githubusercontent.com/55257057/131957567-8acd5edb-e412-4d10-88c6-76ed7799f1d6.png">
 
+# Vertex
+Add Vertex: Inserting a vertex in QGraphicsView, the position of the inserted vertex will be automatically set to the center, and the index of the vertex is the current number of vertices exist in the graph.
 
 
