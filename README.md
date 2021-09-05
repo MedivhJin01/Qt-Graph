@@ -59,6 +59,18 @@ Function:
 
 ![optimal](https://user-images.githubusercontent.com/55257057/132030106-cbd5467e-9684-46e8-913a-bc79f947032e.gif)
 
+Reset: Reset all the visited vertices, and change the color back to yellow. Preparing for the next function call.
+<img width="312" alt="Screen Shot 2021-09-05 at 1 53 45 PM" src="https://user-images.githubusercontent.com/55257057/132117089-7cadfa51-e564-4a78-bf55-4ecb48f9a4bf.png">
+
+Clear: Erase all the vertices as well as edges.
+
+Get Info: Get all the information from the graph. Including: vertex number, edge number, minimum spanning tree weight, depth first search and breadth first search path, optimal path between two vertices, connected graph or not, and matrix representation of the graph.
+<img width="429" alt="Screen Shot 2021-09-05 at 1 54 18 PM" src="https://user-images.githubusercontent.com/55257057/132117090-e031de89-fc1b-4d94-9be5-41dae0d6dccd.png">
+
+# Menu
+
+
+
 
 
 
