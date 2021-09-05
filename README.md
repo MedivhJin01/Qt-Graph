@@ -70,12 +70,14 @@ Get Info: Get all the information from the graph. Including: vertex number, edge
 # Menu
 File: Includes New, Open, Save, Save As, and Exit. The backend logic of saving a graph is to transfer necessary graph information into instructions, and save the instructions into a .txt file. The recorded information are vertex number, vertex position and edges. 
 
-<img width="500" alt="Screen Shot 2021-09-05 at 2 44 51 PM" src="https://user-images.githubusercontent.com/55257057/132118081-b05dbb3e-e990-4c71-80f1-8990fbf40803.png">
+<img width="600" alt="Screen Shot 2021-09-05 at 2 44 51 PM" src="https://user-images.githubusercontent.com/55257057/132118081-b05dbb3e-e990-4c71-80f1-8990fbf40803.png">
 
 UI Tour:
+
 <img width="500" alt="Screen Shot 2021-09-05 at 2 45 07 PM" src="https://user-images.githubusercontent.com/55257057/132118085-3c4a2a33-016e-49bd-b8b3-5920b0145d28.png">
 
 About Us:
+
 <img width="500" alt="Screen Shot 2021-09-05 at 2 45 14 PM" src="https://user-images.githubusercontent.com/55257057/132118088-31020de5-1894-4e68-8a3f-686fd03a049b.png">
 
 
