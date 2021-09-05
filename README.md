@@ -65,6 +65,7 @@ Reset: Reset all the visited vertices, and change the color back to yellow. Prep
 Clear: Erase all the vertices as well as edges.
 
 Get Info: Get all the information from the graph. Including: vertex number, edge number, minimum spanning tree weight, depth first search and breadth first search path, optimal path between two vertices, connected graph or not, and matrix representation of the graph.
+
 <img width="429" alt="Screen Shot 2021-09-05 at 1 54 18 PM" src="https://user-images.githubusercontent.com/55257057/132117090-e031de89-fc1b-4d94-9be5-41dae0d6dccd.png">
 
 # Menu
